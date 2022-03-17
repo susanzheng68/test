@@ -6,3 +6,4 @@
 6. For the word count chart, I assume we want to count the total number for words in each BodyHtml of test_feed.json. Also, zero count is not displayed in the chart.
 7. in index.css file, background-color property shouldn't use #
 8. Fix href in   			<li class="li" style="padding: 10px;"><a href="#2">Item 2</a></li>
+9. Change dl tag into ul tag

@@ -1,10 +1,10 @@
 html {
 	background: cyan;
 }
-dl {
+ul {
 	background: black;
 }
-dl li{
+ul li{
 	display: inline-block;
 
 }
